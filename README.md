@@ -1,3 +1,7 @@
 # StudyNET
 
-StudyNET is an app designed for users to review and learn more about networking concepts. It offers a comprehensive learning experience by providing reviewers on key topics and quizzes to assess user knowledge.
+StudyNET is an application designed to help users review and strengthen their understanding of networking concepts. It provides structured study materials on key topics along with interactive quizzes to assess knowledge and reinforce learning.
+
+To ensure a smooth and intuitive user experience, the application flow and interface were designed using Figma. The interactive prototype illustrates the overall navigation, screen flow, and user journey of the application. Below is the link to view the Figma design and application flow:
+
+🔗 Figma Prototype: https://www.figma.com/design/OiPO5sgc2VBWUXLqwhhmCf/StudyNet-UI?node-id=0-1&p=f&t=og3HNeiudO3h9gg2-0
